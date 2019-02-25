@@ -1,0 +1,23 @@
+{
+  "name": "environmentpractice",
+  "version": "1.0.0",
+  "description": "Practice with Environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmaHawkins/environmentPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmaHawkins/environmentPractice/issues"
+  },
+  "homepage": "https://github.com/EmmaHawkins/environmentPractice#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
